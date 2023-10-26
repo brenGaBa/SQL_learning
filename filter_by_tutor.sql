@@ -1,5 +1,5 @@
 /* Filtrar por id_tutor y id_carrera (opcional) */
-/* Para excluir solo añadir "NOT" 
+/* Para excluir solo añadir "NOT" */
 
 SELECT *
 FROM platzi.alumnos
